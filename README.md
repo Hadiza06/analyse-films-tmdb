@@ -52,20 +52,25 @@ Ces valeurs à 0 ne représentent pas de vrais films mais des données manquante
 Les garder aurait faussé les moyennes et les visualisations.
 
 ---
-
 ## Analyses réalisées
 
 ### 1. Distribution des notes
 Histogramme de la colonne `vote_average` pour comprendre
 la qualité générale du catalogue.
 
+![Distribution des notes](distribution_notes.png)
+
 ### 2. Évolution des sorties par année
 Courbe du nombre de films sortis par année pour observer
 la croissance de la production cinématographique.
 
+![Films par année](Nombre_de_films.png)
+
 ### 3. Top 10 des films les mieux notés
 Classement des 10 films avec la meilleure note moyenne
 parmi les films ayant au moins 100 votes.
+
+![Top 10 films](top10_films.png)
 
 ---
 
